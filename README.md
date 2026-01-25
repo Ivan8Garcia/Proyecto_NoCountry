@@ -151,7 +151,7 @@ Equipo: H12-25-L-Equipo 24 - FlightOnTime
 
 ㅤ
 
-🏗️ Arquitectura de la Solución
+## 🏗️ Arquitectura de la Solución
 
 El sistema opera bajo una arquitectura de microservicios híbrida, separando la lógica de predicción de la lógica de negocio y presentación.
 
@@ -167,13 +167,13 @@ Capa de Presentación: Frontend web para interacción directa del usuario.
 
 ㅤ
 
-💡 Descripción del Desafío y Solución
+##💡Descripción del Desafío y Solución
 
-El Desafío
+### El Desafío
 
 El objetivo principal es predecir la puntualidad de un vuelo basándose en datos históricos. Esta capacidad permite mitigar los efectos negativos de los retrasos para pasajeros y aerolíneas, mejorando la eficiencia operativa y la experiencia del usuario.
 
-Nuestra Solución
+### Nuestra Solución
 
 El equipo Data Science desarrolló un modelo predictivo evaluando variables como aerolínea, origen, destino y horario. Paralelamente, el equipo Backend implementó una API REST que consume este modelo, validando las entradas y ofreciendo una respuesta estandarizada (probabilidad de retraso) a cualquier cliente, incluyendo una interfaz web y sistemas de terceros.
 
