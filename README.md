@@ -167,7 +167,7 @@ Capa de Presentación: Frontend web para interacción directa del usuario.
 
 ㅤ
 
-##💡Descripción del Desafío y Solución
+## 💡Descripción del Desafío y Solución
 
 ### El Desafío
 
